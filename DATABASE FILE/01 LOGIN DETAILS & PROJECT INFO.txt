@@ -1,0 +1,7 @@
+
+
+**Admin Login Details**
+
+Username: admin1
+Password: 12345
+
